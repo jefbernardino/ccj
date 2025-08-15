@@ -2487,7 +2487,7 @@ html.no-csstransitions .hero-content {
   }
 
   .hero-content h1 {
-    font-size: 4.4rem;
+    font-size: 3.4rem;
   }
 
   .hero-left-bar,
@@ -3321,8 +3321,8 @@ html.no-csstransitions .hero-content {
   }
 
   .footer-logo img {
-    width: 116px;
-    height: 30px;
+    width: 18rem;
+    height: 18rem;
   }
 
 }
